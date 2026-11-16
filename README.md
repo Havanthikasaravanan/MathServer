@@ -103,7 +103,7 @@ urlpatterns = [ path('', views.churn_rate, name='churn_rate'), ]
 ```
 
 ## OUTPUT - SERVER SIDE:
-![alt text](<Screenshot (19)-1.png>)
+![alt text](<Screenshot (21).png>)
 
 ## OUTPUT - WEBPAGE:
 
